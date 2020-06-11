@@ -13,6 +13,7 @@ dependencies:
   
   photo_manager: ">=0.5.3+1 <2.0.0"
   provider: ^4.1.2
+  extended_image: ">=0.9.0 <2.0.0"
 
 dev_dependencies:
   flutter_test:
