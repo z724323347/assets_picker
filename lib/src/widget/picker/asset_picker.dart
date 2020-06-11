@@ -30,7 +30,7 @@ class AssetPicker extends StatelessWidget {
   ///
   /// Usually the WeChat uses the dark version (dark background color) for the picker,
   /// but some developer wants a light theme version for some reasons.
-  /// 通常情况下微信选择器使用的是暗色（暗色背景）的主题，可自定义主题。
+  /// 通常情况下使用的是暗色（暗色背景）的主题，可自定义主题。
   final ThemeData pickerTheme;
 
   @override
